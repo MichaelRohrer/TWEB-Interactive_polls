@@ -2,3 +2,17 @@ node_modules/
 public/components
 .nyc_output
 .sass-cache
+
+# Node build artifacts
+npm-debug.log
+
+# Local development
+*.env
+*.dev
+.DS_Store
+.idea/
+
+# Docker
+Dockerfile
+docker-compose.yml
+
