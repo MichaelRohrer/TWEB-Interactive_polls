@@ -1,0 +1,1 @@
+faire grunt puis mocha --recursive specs à la racine ( ou npm test)
